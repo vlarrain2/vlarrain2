@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vicente Larraín
+- 👋 I’m Vicente Larraín
 - 👀 I’m interested in programming, algorithms, and sports.
-- 🌱 I’m currently studying Engineering with a major in Software Engineering at Pontificia Universidad Católica de Chile
+- 🌱 I’m currently studying Engineering with a major in Computer Science at Pontificia Universidad Católica de Chile
 - 📫 You can contact me at vlarrain2@uc.cl
 
 <!---
