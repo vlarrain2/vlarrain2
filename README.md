@@ -1,6 +1,7 @@
-- 👋 I’m Vicente Larraín
-- 👀 I’m interested in programming, algorithms, and sports.
-- 🌱 I’m currently studying Engineering with a major in Computer Science at Pontificia Universidad Católica de Chile
+- 👋 I’m Vicente Larraín 🇨🇱
+- 👀 I’m interested in programming and sports (mostly ⚽ and 🎾)
+- 🌱 I’m currently studying a MS in Computer Science at [PUC](www.uc.cl)
+- 💼 I'm working as a Full Stack Engineer at [Kredito](www.kredito.cl)
 - 📫 You can contact me at vlarrain2@uc.cl
 
 <!---
