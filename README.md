@@ -1,8 +1,8 @@
 - 👋 I’m Vicente Larraín 🇨🇱
-- 👀 I’m interested in programming and sports (mostly ⚽ and 🎾)
-- 🌱 I’m currently studying a MS in Computer Science at [PUC](https://www.uc.cl)
+- 👀 I’m interested in programming, computer vision AI and sports (mostly ⚽ and 🎾)
+- 🎓 I hold an MS in Computer Science from [PUC](https://www.uc.cl), where I conducted AI research on urban perception with Professor Hans Löbel
 - 💼 I'm working as an Engineering Manager at [Kredito](https://www.kredito.cl)
-- 📫 You can contact me at vlarrain2@uc.cl
+- 📫 You can contact me at vlarrain2@uc.cl or on [Linkedin](https://www.linkedin.com/in/vicente-larra%C3%ADn-78262a15a/)
 
 <!---
 vlarrain2/vlarrain2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
